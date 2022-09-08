@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tareaTecno</string>
+    <string name="activation_text">PRESIONE EL BOTON PARA DESPLEGAR LA SNACKBAR</string>
+    <string name="activation_button">SnackBar</string>
+    <string name="title">title CON set</string>
+    <string name="snack">esto es un snackBar</string>
+</resources>
